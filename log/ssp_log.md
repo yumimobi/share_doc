@@ -40,4 +40,4 @@
 59|inventory_types|淘汰，请忽略
 60|device ua|user agent
 61|sdk ver|sdk 版本
-69|ssp req json|ssp请求json
+69|ssp req json|ssp请求json， json格式请参见[ssp接口文档](http://yumimobi-ssp.readthedocs.io/zh/latest/base.html)
