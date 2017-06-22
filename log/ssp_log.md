@@ -29,15 +29,15 @@
 23|geo lat|纬度
 24|geo lon|经度
 25|geo accu|精度
-36|ssp protocol version|ssp协议版本
-48|ssp is test| 1表示为测试流量，0表示正常流量
-51|imei|IMEI码 
-52|mac|MAC地址 
-53|app id|ssp app id, 由ssp提供
-56|appKey| app key
-57|brand|手机品牌
-58|carrier|运营商 0：移动，1：电信，3：联通，4：unknown
-59|inventory_types|淘汰，请忽略
-60|device ua|user agent
-61|sdk ver|sdk 版本
-69|ssp req json|ssp请求json， json格式请参见[ssp接口文档](http://yumimobi-ssp.readthedocs.io/zh/latest/base.html)
+26|ssp protocol version|ssp协议版本
+27|ssp is test| 1表示为测试流量，0表示正常流量
+28|imei|IMEI码 
+29|mac|MAC地址 
+30|app id|ssp app id, 由ssp提供
+31|appKey| app key
+32|brand|手机品牌
+33|carrier|运营商 0：移动，1：电信，3：联通，4：unknown
+34|inventory_types|淘汰，请忽略
+35|device ua|user agent
+36|sdk ver|sdk 版本
+37|ssp req json|ssp请求json， json格式请参见[ssp接口文档](http://yumimobi-ssp.readthedocs.io/zh/latest/base.html)
